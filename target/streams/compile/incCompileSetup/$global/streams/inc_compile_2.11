@@ -1,0 +1,282 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+19 items
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/common/package$.class
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/common/package.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$helperFunc$1$1.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$merger$1$1.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1$$anonfun$apply$1.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> /home/vagrant/.coursier/cache/v1/https/theluggage-agct.gray.net/artifactory/maven-remote-repo/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /home/vagrant/.coursier/cache/v1/https/theluggage-agct.gray.net/artifactory/maven-remote-repo/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+19 items
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> common.package
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> common.package$
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$codeBits$1
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$combine$1
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$helperFunc$1$1
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$merger$1$1
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$quickEncode$1
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$1
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$1$$anonfun$apply$1
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+143 items
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> ::
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> <init>
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> <repeated>
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> Any
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> AnyRef
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> File
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> FileInputStream
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> InputStream
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> List
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> None
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> Nothing
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> Option
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> Predef
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> String
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> _root_
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> child
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> children
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> classesDir
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> common
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> exists
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> file
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> foldLeft
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> getClass
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> getParentFile
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> getResource
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> io
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> java
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> package
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> projectDir
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> resourceFile
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> resourcePath
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> scala
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> subFile
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> toURI
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> +
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> :+
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> List
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> None
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Ordering
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> String
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> a
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> b
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> bit
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> c
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> char
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> code
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> codeTable
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> common
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> count
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> d
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> decodedChars
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> find
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> findEncode
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> first
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> flatMap
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> get
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> head
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> helperFunc
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> isEmpty
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> leafs
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> left
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> length
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> map
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> math
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> merger
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> package
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> right
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> second
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> signleton
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> singletonTree
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> sortBy
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> str
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> table
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> text
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> times
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> traverseTree
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> treeLeft
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> until
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+19 items
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1511580587000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1511580587000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1511580587000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$helperFunc$1$1.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$merger$1$1.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$quickEncode$1.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1$$anonfun$apply$1.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1512546370000)
+/home/vagrant/Downloads/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1512546370000)
+source stamps:
+2 items
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> hash(fddc2b87dc99bc51fe82f159c8d293853b44e963)
+binary stamps:
+2 items
+/home/vagrant/.coursier/cache/v1/https/theluggage-agct.gray.net/artifactory/maven-remote-repo/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> lastModified(1438617791000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1481643765000)
+class names:
+2 items
+/home/vagrant/.coursier/cache/v1/https/theluggage-agct.gray.net/artifactory/maven-remote-repo/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction2
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8AcHNxAH4AZHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGhzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhXNxAH4AeHQAA0FueXNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIR0AAVzY2FsYXEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFf8Tk5P3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADgvaG9tZS92YWdyYW50L0Rvd25sb2Fkcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA81kosAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAP3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBBqRuZ0AAZub3RpZnlzcQB+AAzj40CDdAAMbWFrZUNvZGVUcmVlc3EAfgAMMNffwHQABnNlY3JldHNxAH4ADPnmDgl0AAd1bmFwcGx5c3EAfgAMppAJRHQABmVuY29kZXNxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADNn4AyZ0AAR3YWl0c3EAfgAMP0xdhXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMnzJEPnQADSRhc0luc3RhbmNlT2ZzcQB+AAyhT5qjdAAMcHJvZHVjdEFyaXR5c3EAfgAMrYpCxXQABmVxdWFsc3NxAH4ADFNL+O50AAtxdWlja0VuY29kZXNxAH4ADGclXmN0AAxhc0luc3RhbmNlT2ZzcQB+AAyZwjJJdAAMc3luY2hyb25pemVkc3EAfgAMM4LdmHQABGxlZnRzcQB+AAwvPyahdAANJGlzSW5zdGFuY2VPZnNxAH4ADORtY5h0AAZ0dXBsZWRzcQB+AAzljEqQdAAHSHVmZm1hbnNxAH4ADK8z4NV0AAhjYW5FcXVhbHNxAH4ADNy4Kpl0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOmjAId0AARjaGFyc3EAfgAMuBQG/HQABmRlY29kZXNxAH4ADGe14Jx0AARMZWFmc3EAfgAM1J/4kHQACGNvZGVCaXRzc3EAfgAMBIXUZHQADXByb2R1Y3RQcmVmaXhzcQB+AAzN7YnvdAAFdW50aWxzcQB+AAzWsoCxdAAKZnJlbmNoQ29kZXNxAH4ADPQX6yl0AAlub3RpZnlBbGxzcQB+AAyL3AEJdAALcmVhZFJlc29sdmVzcQB+AAzqxhkOdAAFY2hhcnNzcQB+AAwK6ir/dAAMaXNJbnN0YW5jZU9mc3EAfgAMNHGzI3QABjxpbml0PnNxAH4ADNvuXRl0AAVhcHBseXNxAH4ADP5M6690AA1kZWNvZGVkU2VjcmV0c3EAfgAMJOi/nHQAAj09c3EAfgAMEvSivXQABWNsb25lc3EAfgAMGBck4XQAD21lcmdlQ29kZVRhYmxlc3NxAH4ADAgq9UB0AAV0aW1lc3NxAH4ADPNo+jJ0AAdjb21iaW5lc3EAfgAMmiZunnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMvj6PcnQABGNvcHlzcQB+AAxf3ETIdAAMc3RyaW5nMkNoYXJzc3EAfgAM1GDg6nQACHRvU3RyaW5nc3EAfgAMjocP53QACXNpbmdsZXRvbnNxAH4ADNqLXi10AAIhPXNxAH4ADKItZap0AAhnZXRDbGFzc3NxAH4ADBoL2sF0AAlDb2RlVGFibGVzcQB+AAxHYPjfdAAOY3JlYXRlQ29kZVRyZWVzcQB+AAxF8kE2dAAOY29weSRkZWZhdWx0JDFzcQB+AAz2rUQ8dAAERm9ya3NxAH4ADCXGoJJ0AANCaXRzcQB+AAyykPVvdAACbmVzcQB+AAxDwK/IdAATbWFrZU9yZGVyZWRMZWFmTGlzdHNxAH4ADBdybat0AAhDb2RlVHJlZXNxAH4ADMd0bZF0AAJlcXNxAH4ADId5BKh0AAdjb252ZXJ0c3EAfgAMXh7u1XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBmtLgZ0AAVyaWdodHNxAH4ADCGmWoh0AAIjI3NxAH4ADDMwnRd0AAhmaW5hbGl6ZXNxAH4ADFUl1x50AA5wcm9kdWN0RWxlbWVudHNxAH4ADNHAT710AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5wYXRtYXQuSHVmZm1hbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4ArQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AlUwACWluaGVyaXRlZHEAfgCVTAAHcGFyZW50c3EAfgCVeHEAfgC0c3EAfgCtAXVxAH4AkAAAAABwc3EAfgCtAXVxAH4AkAAAAABwc3EAfgCtAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4As3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4As3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AzHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AzXNxAH4AwHQAA0FueXNxAH4AxHNxAH4Ax3VxAH4AygAAAAJzcQB+AMx0AAVzY2FsYXEAfgDTcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZwYXRtYXRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWAqyeoydXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOC9ob21lL3ZhZ3JhbnQvRG93bmxvYWRzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU/dwrh9yZvFH+gvFZyNKThTtE6WM=
+external apis:
+0 items
+source infos:
+2 items
+/home/vagrant/Downloads/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/home/vagrant/Downloads/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX/E5OT91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3ZhZ3JhbnQvRG93bmxvYWRzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX/FGwjJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3ZhZ3JhbnQvRG93bmxvYWRzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYCrJ6jJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9ob21lL3ZhZ3JhbnQvRG93bmxvYWRzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
